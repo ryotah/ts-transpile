@@ -1,2 +1,3 @@
-# xs-transpiler-playground
-Playground to transpile TS/JS code
+# ts-transpile
+
+Examples to transpile TypeScript
