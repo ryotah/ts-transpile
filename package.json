@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Examples to transpile TypeScript",
   "main": "index.js",
+  "bin": {
+    "cli-demo": "./packages/ts-morph/example-2/bin/index.js"
+  },
   "devDependencies": {
     "@types/glob": "^7.1.3",
     "@types/jest": "^26.0.20",
